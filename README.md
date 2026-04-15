@@ -33,7 +33,7 @@ Experienced in designing scalable architectures, managing IT infrastructure, and
   <p style="margin:10px 0; color:#B8860B;">🌐 <a href="https://amireid.github.io/CV/" style="color:#B8860B; text-decoration:none;">Portfolio Website</a></p>
   <p style="margin:10px 0; color:#B8860B;">📸 <a href="https://www.instagram.com/amir.m.eid/" style="color:#B8860B; text-decoration:none;">Instagram</a></p>
   <p style="margin:10px 0; color:#B8860B;">💼 <a href="https://www.linkedin.com/in/amireid/" style="color:#B8860B; text-decoration:none;">LinkedIn</a></p>
-  <p style="margin:10px 0; color:#B8860B;">📝 <a href="https://your-recommendation-letter-link.com" style="color:#B8860B; text-decoration:none;">Recommendation Letter</a></p>
+  <p style="margin:10px 0; color:#B8860B;">📝 <a href="https://drive.google.com/file/d/1cOnLMEjrDpRBsGwpukbeJpCOrrHCenQ3/view?usp=sharing" style="color:#B8860B; text-decoration:none;">Recommendation Letter</a></p>
   <p style="margin:10px 0; color:#B8860B;">🎓 <a href="https://your-42-transcript-link.com" style="color:#B8860B; text-decoration:none;">42 Transcript</a></p>
 </div>
     </td>
@@ -61,4 +61,14 @@ Experienced in designing scalable architectures, managing IT infrastructure, and
 | [<img src="assets/weavETH.jpg" width="400" />](https://github.com/AmirEid/WeavETH)                                | [<img src="assets/ascom.jpg" width="400" />](https://github.com/AmirEid/ASCOM-Project) |
 | **Tech:** React Native (expo), Solidity (HardHat), <br> AI Module integration (Photo modification), WalletConnect | **Tech:** React, Vite, Axios, JavaScript, CSS Modules                                  |
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Processes VS Threads (Philosophers)</strong><br><br>
+      <a href="https://github.com/AmirEid/Philosophers"><img src="assets/process_vs_thread.jpg" width="400" /></a><br><br>
+      <strong>Tech:</strong> C, POSIX Threads, Mutexes, Time management,<br>
+      Synchronization primitives, Semaphores, Signals, POSIX IPC
+    </td>
+  </tr>
+</table>
 </div>
