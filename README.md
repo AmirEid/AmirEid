@@ -56,7 +56,7 @@ Experienced in designing scalable architectures, managing IT infrastructure, and
 
 <div align="center">
 
-| weavETH (Mobile App)                                                                                              | ASCOM (Web App)                                                                        |
+| weavETH (Mobile App)                                                                                              | ASCOM (Frontend Client)                                                                        |
 | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | [<img src="assets/weavETH.jpg" width="400" />](https://github.com/AmirEid/WeavETH)                                | [<img src="assets/ascom.jpg" width="400" />](https://github.com/AmirEid/ASCOM-Project) |
 | **Tech:** React Native (expo), Solidity (HardHat), <br> AI Module integration (Photo modification), WalletConnect | **Tech:** React, Vite, Axios, JavaScript, CSS Modules                                  |
