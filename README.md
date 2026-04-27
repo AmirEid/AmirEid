@@ -56,19 +56,14 @@ Experienced in designing scalable architectures, managing IT infrastructure, and
 
 <div align="center">
 
-| weavETH (Mobile App)                                                                                              | ASCOM (Frontend Client)                                                                        |
+| weavETH (Mobile App)                                                                                              | ASCOM (Frontend Client)                                                                |
 | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | [<img src="assets/weavETH.jpg" width="400" />](https://github.com/AmirEid/WeavETH)                                | [<img src="assets/ascom.jpg" width="400" />](https://github.com/AmirEid/ASCOM-Project) |
 | **Tech:** React Native (expo), Solidity (HardHat), <br> AI Module integration (Photo modification), WalletConnect | **Tech:** React, Vite, Axios, JavaScript, CSS Modules                                  |
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <strong>Processes VS Threads (Philosophers)</strong><br><br>
-      <a href="https://github.com/AmirEid/Philosophers"><img src="assets/process_vs_thread.jpg" width="400" /></a><br><br>
-      <strong>Tech:</strong> C, POSIX Threads, Mutexes, Time management,<br>
-      Synchronization primitives, Semaphores, Signals, POSIX IPC
-    </td>
-  </tr>
-</table>
+| Processes VS Threads (Philosophers)                                                                                   | Authentication Service (Two Projects)                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| [<img src="assets/process_vs_thread.jpg" width="400" />](https://github.com/AmirEid/Philosophers)                     | [<img src="assets/authentication_service.svg" width="400" />](https://github.com/AmirEid/Authentication-Service) |
+| **Tech:** C, POSIX Threads, Mutexes, Time management, <br> Synchronization primitives, Semaphores, Signals, POSIX IPC | **Tech:** Fastify (Node.js + TypeScript), FastAPI (Python), <br> JWT, refresh-token flow, TOTP 2FA               |
+
 </div>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-label="Authentication Service">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="55%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" rx="24" fill="url(#bg)"/>
+  <g fill="#e2e8f0" opacity="0.25">
+    <circle cx="120" cy="90" r="48"/>
+    <circle cx="700" cy="350" r="72"/>
+  </g>
+  <g fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <text x="400" y="180" font-size="44" font-weight="700">Authentication Service</text>
+    <text x="400" y="235" font-size="26" opacity="0.9">Fastify Auth + FastAPI Auth</text>
+    <text x="400" y="290" font-size="20" opacity="0.85">JWT • Refresh Tokens • 2FA (TOTP)</text>
+  </g>
+</svg>
